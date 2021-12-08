@@ -125,6 +125,19 @@
     <science_support grid="f09_g17"/>
   </compset>
 
+  <!-- Same as BHIST, but with ocpl/pop/roms ocean -->
+  <compset>
+    <alias>BHISTocpl</alias>
+    <lname>HIST_CAM60_CLM50%BGC-CROP_CICE_OCPL_MOSART_CISM2%NOEVOLVE_WW3_BGC%BDRD</lname>
+    <science_support grid="f09_g17_gl4"/>
+    <science_support grid="f09_g17"/>
+  </compset>
+
+  <compset>
+    <alias>B1850L45BGCRocpl</alias>
+    <lname>1850_CAM60_CLM45%BGC_CICE_OCPL_RTM_SGLC_SWAV</lname>
+  </compset>
+
   <!-- Same as BHIST, but with cmip6-related modifiers for some components -->
   <compset>
     <alias>BHISTcmip6</alias>
