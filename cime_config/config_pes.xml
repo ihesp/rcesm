@@ -43,7 +43,7 @@
 	<comment>none</comment>
 	<ntasks>
 	  <ntasks_atm>36</ntasks_atm>
-	  <ntasks_lnd></ntasks_lnd>
+	  <ntasks_lnd>36</ntasks_lnd>
 	  <ntasks_rof>36</ntasks_rof>
 	  <ntasks_ice>36</ntasks_ice>
 	  <ntasks_ocn>1024</ntasks_ocn>
